@@ -1,0 +1,10 @@
+﻿  rcc displayLog.qrc
+   RCC: Warning: No resources in 'D:\space\draw\displayLog - sucess1\displayLog\displayLog.qrc'.
+  displayLog.cpp
+  logbrowser.cpp
+  main.cpp
+  moc_displayLog.cpp
+  moc_logbrowser.cpp
+  qrc_displayLog.cpp
+  displayLog.vcxproj -> D:\space\draw\displayLog - sucess1\x64\Debug\displayLog.exe
+  displayLog.vcxproj -> D:\space\draw\displayLog - sucess1\x64\Debug\displayLog.pdb (Full PDB)

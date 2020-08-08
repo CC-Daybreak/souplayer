@@ -1,0 +1,10 @@
+﻿  uic logbrowser.ui
+  rcc logbrowser.qrc
+  moc logbrowser.h
+   RCC: Warning: No resources in 'D:\space\draw\LogBrowser - sucess\LogBrowser\logbrowser.qrc'.
+  logbrowser.cpp
+  main.cpp
+  qrc_logbrowser.cpp
+  moc_logbrowser.cpp
+  LogBrowser.vcxproj -> D:\space\draw\LogBrowser - sucess\x64\Debug\LogBrowser.exe
+  LogBrowser.vcxproj -> D:\space\draw\LogBrowser - sucess\x64\Debug\LogBrowser.pdb (Full PDB)
